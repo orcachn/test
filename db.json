@@ -1,23 +1,54 @@
-{"ranks":[
-  {
-    "uid": "4",
-    "score": 2711
-  },
-  {
-    "uid": "5",
-    "score": 2652
-  },
-  {
-    "uid": "7",
-    "score": 2535
-  },
-  {
-    "uid": "1",
-    "score": 3096
-  },
-  {
-    "uid": "2",
-    "score": 2458
-  } 
-]
+{
+	"ranks": [{
+			"id": "1",
+			"name": "Emma",
+			"nation": "US",
+			"picture": "",
+			"score": 2344
+		},
+		{
+			"id": "2",
+			"name": "Sophia",
+			"nation": "FR",
+			"picure": "",
+			"score": 2433
+
+		},
+		{
+			"id": "3",
+			"name": "Jackson",
+			"nation": "AU",
+			"picure": "",
+			"score": 1986
+		},
+		{
+			"id": "4",
+			"name": "Noah",
+			"nation": "CA",
+			"picure": "",
+			"score": 2994
+
+		},
+		{
+			"id": "5",
+			"name": "Olivia",
+			"nation": "JP",
+			"picure": "",
+			"score": 2104
+
+		}
+	],
+	"rewards": [{
+		"propname": 1,
+		"num": 3
+	}, {
+		"propname": 6,
+		"num": 1
+	}, {
+		"propname": 3,
+		"num": 2
+	}, {
+		"propname": 2,
+		"num": 5
+	}]
 }
