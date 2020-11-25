@@ -10,7 +10,7 @@
 			"id": "2",
 			"name": "Sophia",
 			"nation": "FR",
-			"picure": "",
+			"picture": "",
 			"score": 2433
 
 		},
@@ -18,14 +18,14 @@
 			"id": "3",
 			"name": "Jackson",
 			"nation": "AU",
-			"picure": "",
+			"picture": "",
 			"score": 1986
 		},
 		{
 			"id": "4",
 			"name": "Noah",
 			"nation": "CA",
-			"picure": "",
+			"picture": "",
 			"score": 2994
 
 		},
@@ -33,7 +33,7 @@
 			"id": "5",
 			"name": "Olivia",
 			"nation": "JP",
-			"picure": "",
+			"picture": "",
 			"score": 2104
 
 		}
