@@ -50,5 +50,11 @@
 	}, {
 		"propname": 2,
 		"num": 5
-	}]
+	}],
+	"status": {
+		"status": 3,
+		"endtime": 1606488888,
+		"rank": 3
+
+	}
 }
