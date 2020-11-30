@@ -61,7 +61,7 @@
 		"endtime": 1606488888,
 		"rank": 2
 
-	}
+	},
 	
 	"get":{
     "status": 1,
@@ -70,7 +70,7 @@
         {
             "r": 2,
             "u": "1511",
-            "i": "{\"countryCode\":\"CN\",\"nick\":\"IVY_HZB90\"}",  //第一条数据是自己的
+            "i": "{\"countryCode\":\"CN\",\"nick\":\"IVY_HZB90\"}",   
             "s": 99
         },
         {
