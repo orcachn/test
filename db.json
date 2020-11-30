@@ -82,7 +82,7 @@
 	"isopen":{
     "status": 1, 
     "msg": "testing",
-    "left_seconds": 30000, 
+    "left_seconds": 0, 
     "type": 1 
 },
 	"rewar":{
