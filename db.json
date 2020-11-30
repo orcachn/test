@@ -1,43 +1,5 @@
 {
-	"ranks": [{
-			"id": "1",
-			"name": "Emma",
-			"nation": "US",
-			"picture": "",
-			"score": 2344
-		},
-		{
-			"id": "2",
-			"name": "Sophia",
-			"nation": "FR",
-			"picture": "",
-			"score": 2433
-
-		},
-		{
-			"id": "3",
-			"name": "Jackson",
-			"nation": "AU",
-			"picture": "",
-			"score": 1986
-		},
-		{
-			"id": "4",
-			"name": "Noah",
-			"nation": "CA",
-			"picture": "",
-			"score": 2994
-
-		},
-		{
-			"id": "5",
-			"name": "Olivia",
-			"nation": "JP",
-			"picture": "",
-			"score": 2104
-
-		}
-	],
+	 
 	"rewards": [{
 		"propname": 1,
 		"num": 3
