@@ -84,6 +84,42 @@
     "msg": "testing",
     "left_seconds": 30000, 
     "type": 1 
+},
+	"rewar":{
+    "status": 1,
+    "msg": "success",
+    "data": {
+        "3": {            
+            "rank": 1,    
+            "goods": [    
+                {
+                    "goods_type": "1",
+                    "goods_id": "1",
+                    "goods_num": "3"
+                },
+		    {
+                    "goods_type": "6",
+                    "goods_id": "1",
+                    "goods_num": "1"
+                },
+		  {
+                    "goods_type": "3",
+                    "goods_id": "1",
+                    "goods_num": "2"
+                },  
+		    {
+                    "goods_type": "2",
+                    "goods_id": "1",
+                    "goods_num": "5"
+                },
+		    {
+                    "goods_type": "5",
+                    "goods_id": "1",
+                    "goods_num": "4"
+                } 
+            ]
+        }
+    }
 }
 	
 	
