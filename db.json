@@ -78,5 +78,13 @@
         }
        
     }
+},
+	"isopen":{
+    "status": 1, 
+    "msg": "testing",
+    "left_seconds": 30000, 
+    "type": 1 
 }
+	
+	
 }
