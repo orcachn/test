@@ -44,7 +44,7 @@
 	"isopen":{
     "status": 1, 
     "msg": "testing",
-    "left_seconds": 0, 
+    "left_seconds": 20000, 
     "type": 1 
 },
 	"rewar":{
