@@ -63,28 +63,20 @@
 
 	},
 	
-	"get":{
+	"get": {
     "status": 1,
     "msg": "success",
-    "data": [
-        {
-            "r": 2,
-            "u": "1511",
-            "i": "{\"countryCode\":\"CN\",\"nick\":\"IVY_HZB90\"}",   
-            "s": 99
+    "left_seconds": 56352, //活动剩余秒数
+    "data": {
+        "12348": {
+            "finish_level": 15,
+            "userInfo": "{\"nickname\":\"aa\",\"icon\":\"US\"}"
         },
-        {
-            "r": 1,
-            "u": "1201",
-            "i": "{\"countryCode\":\"CN\",\"nick\":\"IVY_HZB\"}",
-            "s": 98
-        },
-        {
-            "r": 2,
-            "u": "1511",
-            "i": "{\"countryCode\":\"CN\",\"nick\":\"IVY_HZB90\"}",
-            "s": 99
+        "12349": {
+            "finish_level": 10,
+            "userInfo": "{\"nickname\":\"aa\",\"icon\":\"CN\"}"
         }
-    ]
+       
+    }
 }
 }
