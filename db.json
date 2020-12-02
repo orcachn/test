@@ -28,7 +28,7 @@
 	"get": {
     "status": 1,
     "msg": "success",
-    "left_seconds": 0,  
+    "left_seconds": 3000,  
     "data": {
         "12348": {
             "finish_level": 15,
@@ -36,9 +36,16 @@
         },
         "12349": {
             "finish_level": 10,
-            "userInfo": "{\"nickname\":\"aa\",\"icon\":\"CN\"}"
+            "userInfo": "{\"nickname\":\"jfjkd\",\"icon\":\"CN\"}"
+        },
+	     "123": {
+            "finish_level": 7,
+            "userInfo": "{\"nickname\":\"haha\",\"icon\":\"JP\"}"
+        },
+        "129": {
+            "finish_level": 4,
+            "userInfo": "{\"nickname\":\"testing\",\"icon\":\"KR\"}"
         }
-       
     }
 },
 	"isopen":{
