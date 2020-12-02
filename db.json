@@ -28,7 +28,7 @@
 	"get": {
     "status": 1,
     "msg": "success",
-    "left_seconds": 56352,  
+    "left_seconds": 0,  
     "data": {
         "12348": {
             "finish_level": 15,
@@ -44,7 +44,7 @@
 	"isopen":{
     "status": 1, 
     "msg": "testing",
-    "left_seconds": 10000, 
+    "left_seconds":0, 
     "type": 1 
 },
 	"rewar":{
