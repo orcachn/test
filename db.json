@@ -31,19 +31,19 @@
     "left_seconds": 3000,  
     "data": {
         "12348": {
-            "finish_level": 15,
+            "finish_level": 20,
             "userInfo": "{\"nickname\":\"aa\",\"icon\":\"US\"}"
         },
         "12349": {
-            "finish_level": 10,
-            "userInfo": "{\"nickname\":\"jfjkd\",\"icon\":\"CN\"}"
+            "finish_level": 12,
+            "userInfo": "{\"nickname\":\"咕咕27\",\"icon\":\"CN\"}"
         },
 	     "123": {
-            "finish_level": 7,
+            "finish_level": 16,
             "userInfo": "{\"nickname\":\"haha\",\"icon\":\"JP\"}"
         },
         "129": {
-            "finish_level": 4,
+            "finish_level": 9,
             "userInfo": "{\"nickname\":\"testing\",\"icon\":\"KR\"}"
         }
     }
