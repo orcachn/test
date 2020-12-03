@@ -7,14 +7,14 @@
 		"propname": 6,
 		"num": 1
 	}, {
-		"propname": 3,
+		"propname": 15,
 		"num": 2
 	}, {
 		"propname": 2,
 		"num": 5
 	},
 		   {
-		"propname": 5,
+		"propname": 16,
 		"num": 2
 	}
 		   ],
@@ -55,7 +55,7 @@
     "type": 1 
 },
 	"rewar":{
-    "status": -1,
+    "status": 1,
     "msg": "success",
     "data": {
         "3": {            
@@ -72,7 +72,7 @@
                     "goods_num": "1"
                 },
 		  {
-                    "goods_type": "3",
+                    "goods_type": "15",
                     "goods_id": "1",
                     "goods_num": "2"
                 },  
@@ -82,7 +82,7 @@
                     "goods_num": "5"
                 },
 		    {
-                    "goods_type": "5",
+                    "goods_type": "16",
                     "goods_id": "1",
                     "goods_num": "4"
                 } 
