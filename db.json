@@ -1,95 +1,135 @@
 {
-	 
-	"rewards": [{
-		"propname": 1,
-		"num": 3
-	}, {
-		"propname": 6,
-		"num": 1
-	}, {
-		"propname": 15,
-		"num": 2
-	}, {
-		"propname": 2,
-		"num": 5
+
+	"set": {
+		"status": 1,
+		"msg": "xxxx",
+		"left_seconds": 56352,
+		"data": [],
+		"award": [{
+				"rs_ceil": "1",
+				"rs_lower": "1",
+				"goods": [{
+					"goods_id": "1",
+					"goods_num": "3"
+				}, {
+					"goods_id": "6",
+					"goods_num": "1"
+				}, {
+					"goods_id": "15",
+					"goods_num": "2"
+				}, {
+					"goods_id": "2",
+					"goods_num": "5"
+				}, {
+					"goods_id": "16",
+					"goods_num": "4"
+				}]
+			},
+			{
+				"rs_ceil": "2",
+				"rs_lower": "2",
+				"goods": [{
+						"goods_id": "15",
+						"goods_num": "2"
+					},
+					{
+						"goods_id": "2",
+						"goods_num": "3"
+					},
+					{
+						"goods_id": "5",
+						"goods_num": "4"
+					}
+				]
+			},
+			{
+				"rs_ceil": "3",
+				"rs_lower": "3",
+				"goods": [{
+						"goods_id": "3",
+						"goods_num": "2"
+					},
+					{
+						"goods_id": "1",
+						"goods_num": "3"
+					}
+				]
+			}
+
+
+		]
 	},
-		   {
-		"propname": 16,
-		"num": 2
-	}
-		   ],
 	"status": {
 		"status": 3,
 		"endtime": 1606488888,
 		"rank": 2
 
 	},
-	
+
 	"get": {
-    "status": 1,
-    "msg": "success",
-    "left_seconds": 3000,  
-    "data": {
-        "12348": {
-            "finish_level": 20,
-            "userInfo": "{\"nickname\":\"aa\",\"icon\":\"US\"}"
-        },
-        "12349": {
-            "finish_level": 12,
-            "userInfo": "{\"nickname\":\"咕咕27\",\"icon\":\"CN\"}"
-        },
-	     "123": {
-            "finish_level": 16,
-            "userInfo": "{\"nickname\":\"haha\",\"icon\":\"JP\"}"
-        },
-        "129": {
-            "finish_level": 9,
-            "userInfo": "{\"nickname\":\"testing\",\"icon\":\"KR\"}"
-        }
-    }
-},
-	"isopen":{
-    "status": 1, 
-    "msg": "testing",
-    "left_seconds":0, 
-    "type": 1 
-},
-	"rewar":{
-    "status": -1,
-    "msg": "success",
-    "data": {
-        "3": {            
-            "rank": 1,    
-            "goods": [    
-                {
-                    "goods_type": "1",
-                    "goods_id": "1",
-                    "goods_num": "3"
-                },
-		    {
-                    "goods_type": "6",
-                    "goods_id": "1",
-                    "goods_num": "1"
-                },
-		  {
-                    "goods_type": "15",
-                    "goods_id": "1",
-                    "goods_num": "2"
-                },  
-		    {
-                    "goods_type": "2",
-                    "goods_id": "1",
-                    "goods_num": "5"
-                },
-		    {
-                    "goods_type": "16",
-                    "goods_id": "1",
-                    "goods_num": "4"
-                } 
-            ]
-        }
-    }
-}
-	
-	
+		"status": 1,
+		"msg": "success",
+		"left_seconds": 3000,
+		"data": {
+			"12348": {
+				"finish_level": 20,
+				"userInfo": "{\"nickname\":\"aa\",\"icon\":\"US\"}"
+			},
+			"12349": {
+				"finish_level": 12,
+				"userInfo": "{\"nickname\":\"咕咕27\",\"icon\":\"CN\"}"
+			},
+			"123": {
+				"finish_level": 16,
+				"userInfo": "{\"nickname\":\"haha\",\"icon\":\"JP\"}"
+			},
+			"129": {
+				"finish_level": 9,
+				"userInfo": "{\"nickname\":\"testing\",\"icon\":\"KR\"}"
+			}
+		}
+	},
+	"isopen": {
+		"status": 1,
+		"msg": "testing",
+		"left_seconds": 0,
+		"type": 1
+	},
+	"rewar": {
+		"status": -1,
+		"msg": "success",
+		"data": {
+			"3": {
+				"rank": 1,
+				"goods": [{
+						"goods_type": "1",
+						"goods_id": "1",
+						"goods_num": "3"
+					},
+					{
+						"goods_type": "6",
+						"goods_id": "1",
+						"goods_num": "1"
+					},
+					{
+						"goods_type": "15",
+						"goods_id": "1",
+						"goods_num": "2"
+					},
+					{
+						"goods_type": "2",
+						"goods_id": "1",
+						"goods_num": "5"
+					},
+					{
+						"goods_type": "16",
+						"goods_id": "1",
+						"goods_num": "4"
+					}
+				]
+			}
+		}
+	}
+
+
 }
